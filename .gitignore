@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Screenshots
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Test Results
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+test-results/
+allure-results/
+allure-report/
+
+# Appium
+appium-server.log
+node_modules/
+
+# Secrets
+.env
+.secret_key
+*.enc
+config/credentials.enc
+
+# Reports
+reports/
+*.html
+*.xml
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# APK/IPA
+*.apk
+*.ipa
+
+# AutoJs
+*.autojs
